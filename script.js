@@ -3,7 +3,7 @@
 // ==========================
 let notes = [
   "I love your smile 😊",
-  "You always care about me ❤️",
+  "You always care about us ❤️",
   "You make my world brighter ✨",
   "You understand me like no one else 💕",
   "I hate you more every single day 🌹"
